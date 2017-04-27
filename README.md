@@ -1,8 +1,12 @@
 
-# JavaScript (ES5) Style Guide() {
+# InterCity's JavaScript `(ES5)` Style Guide() {
 
-*A mostly reasonable approach to JavaScript extended from [documentation](https://github.com/airbnb/javascript) by airbnb*
+*A mostly reasonable approach to JavaScript extended from [documentation](https://github.com/airbnb/javascript) by Airbnb and adapted to InterCity's needs.*
 
+#### Other Style Guides
+- [HTML Style Guide](https://github.com/intercitygroup/html-style-guide)
+- [CSS Style Guide](https://github.com/intercitygroup/css-style-guide)
+- [JavaScript Style Guide](https://github.com/intercitygroup/javascript-style-guide)
 
 ## Table of Contents
 
